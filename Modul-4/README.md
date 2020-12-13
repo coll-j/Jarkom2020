@@ -1,4 +1,8 @@
 # Modul 4: Subnetting dan Routing
+```
+Nugroho Dimas A (05111840000075)
+Zakiya Azizah C (05111840000080)
+```
 
 - [CIDR](#cidr-uml)
 - [VLSM](#vlsm-cpt)
