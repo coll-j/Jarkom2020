@@ -69,20 +69,20 @@ route add -net 0.0.0.0 netmask 0.0.0.0 gw 192.168.48.1 #A7
 route add -net 10.151.77.56 netmask 255.255.255.248 gw 192.168.32.2 //SERVER MALANG
 ```
 
-# MADIUN
+### MADIUN
 
 ```
 route add -net 0.0.0.0 netmask 0.0.0.0 gw 192.168.50.1 //A6
 ```
 
-# KEDIRI
+### KEDIRI
 
 ```
 route add -net 0.0.0.0 netmask 0.0.0.0 gw 192.168.32.1 //A3
 route add -net 192.168.36.0 netmask 255.255.252.0 gw 192.168.1.2 //A1
 ```
 
-# BLITAR
+### BLITAR
 
 ```
 route add -net 0.0.0.0 netmask 0.0.0.0 gw 192.168.1.1 //A2
