@@ -10,10 +10,15 @@ Zakiya Azizah C (05111840000080)
 ## CIDR UML
 1. Menentukan subnet yang disatukan sebagai berikut
 ![cidr-1](images/cidr/cidr-1.png)
+
 ![cidr-2](images/cidr/cidr-2.png)
+
 ![cidr-3](images/cidr/cidr-3.png)
+
 ![cidr-4](images/cidr/cidr-4.png)
+
 ![cidr-5](images/cidr/cidr-5.png)
+
 ![cidr-6](images/cidr/cidr-6.png)
 
 2. Membuat pohon untuk pembagian subnet
@@ -119,8 +124,11 @@ route add -net 0.0.0.0 netmask 0.0.0.0 gw 192.168.1.1 //A2
 
 5. Mengatur ip pada setiap router, client, dan server. Jangan lupa mengatur gateway pada server. Contoh pada a8, a10, server mojokerto, secara berurut.
 ![ip-a8](images/vlsm/ip-a8.png)
+
 ![ip-a10](images/vlsm/ip-a10.png)
+
 ![ip-server](images/vlsm/ip-server.png)
+
 ![gw-server](images/vlsm/gateway-server.png)
 
 6. Menentukan routing
