@@ -122,12 +122,19 @@ route add -net 0.0.0.0 netmask 0.0.0.0 gw 192.168.1.1 //A2
 6. Menentukan routing
 - Surabaya
 ![sby](images/vlsm/route-surabaya.png)
+
+- Pasuruan
 ![pasuruan](images/vlsm/route-pasuruan.png)
+
+- Batu
 ![batu](images/vlsm/route-batu.png)
+
+- Kediri
 ![kediri](images/vlsm/route-kediri.png)
 
 7. Mengatur routing pada cpt, contoh sby ke a10
 ![contoh-routing](images/vlsm/routing-sby-a10.png)
 
 8. Coba ping
+
 ![ping](images/vlsm/ping.png)
